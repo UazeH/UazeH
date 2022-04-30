@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Sup!
-I am still learning
+I'm interested in, c++, c#, python, javascript.
 <!--
 **UazeH/UazeH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
