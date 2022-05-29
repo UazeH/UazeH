@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Code without "H" is just a trash code.
+
 Sup!
 I'm interested in, c++, c#, c, python, javascript, typescript.
 <!--
