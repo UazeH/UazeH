@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Sup!
-I'm interested in, c++, c#, c, python, javascript, typescript.
+My Favorite programming language : C++, C#. JavaScript, Typescript, PHP, Python.
 <!--
 **UazeH/UazeH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
